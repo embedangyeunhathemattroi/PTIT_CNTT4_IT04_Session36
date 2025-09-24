@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "日本語を学ぶ",
+      "completed": true,
+      "priority": "medium"
+    },
+    {
+      "id": "2",
+      "title": "プログラミングの練習をする",
+      "completed": true,
+      "priority": "low"
+    },
+    {
+      "title": "ハローキティ猫を見る",
+      "priority": "hight",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
